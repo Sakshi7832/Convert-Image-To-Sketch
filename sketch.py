@@ -1,4 +1,4 @@
-#convert image to cartoon sketch 
+#convert image to sketch 
 #you need to install :- pip install sketchify
 
 from sketchify import sketch
